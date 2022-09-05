@@ -1,0 +1,36 @@
+BASIC INFO
+'Name':[name],
+'Nation':[nation],
+'Class':[tank_class],
+'Rank':[rank],
+'Category':[category],
+'Battle rating':[battle_rating],
+
+GUNS INFO
+'Main gun diameter (mm)':[main_gun_diameter],
+'Main gun ammo (rounds)':[main_gun_ammo],
+'Armor penetration 500m 0% (mm)':[armor_penetration],
+'Turret rotation speed (°/s)':[turret_rotation],
+'Vertical guidance (°)':[vertical_guidance],
+'Reloading rate (s)':[reloading_rate],
+
+ARMOUR INFO
+'Front hull armor (mm)':[hull_armor],
+'Front turret armor (mm)':[turret_armor],
+
+GENERAL STATS
+'Crew count':[crew_count],'Mass (t)':[mass],
+'Max speed forward (km/h)':[max_speed_forward],
+'Max speed backwards (km/h)':[max_speed_backwards],
+'Engine power (hp)':[engine_power],
+
+REWARD MULTIPLIER
+'Research points rewards multiplier (%)':[research_multiplier],
+'Silver lions rewards multiplier (%)':[lions_multiplier]
+
+COSTS INFO
+'Research cost':[research_cost],
+'Silver Lions cost':[lions_cost],
+'Golden Eagles cost':[eagles_cost],
+'Crew train cost':[crew_train_cost],
+'Repair cost':[repair_cost]
